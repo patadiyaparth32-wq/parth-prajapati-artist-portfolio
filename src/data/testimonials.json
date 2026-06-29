@@ -1,0 +1,50 @@
+[
+  {
+    "id": "test-1",
+    "name": "Bhavesh",
+    "role": "Art Collector",
+    "avatar": "/images/testimonials/bhavesh.webp",
+    "text": "I commissioned a custom portrait from Parth Prajapati and the result exceeded every expectation. Every detail was beautifully crafted, and the artwork perfectly captured the emotions of the moment. Truly remarkable craftsmanship.",
+    "category": "client"
+  },
+  {
+    "id": "test-2",
+    "name": "Kabir",
+    "role": "Drawing Student",
+    "avatar": "/images/avatars/kabir.png",
+    "text": "I joined Parth Sir's drawing classes as a beginner. His step-by-step guidance, shading techniques, and constant encouragement helped me improve my confidence and drawing skills. Every class motivated me to practice more.",
+    "category": "student"
+  },
+  {
+    "id": "test-3",
+    "name": "Gaurav Mandli",
+    "role": "Art Collector",
+    "avatar": "/images/testimonials/gaurav-mandli.webp",
+    "text": "Parth's ability to bring charcoal drawings to life is extraordinary. The commissioned portrait we received has a mesmerizing depth and realism. It is a stunning addition to our private collection.",
+    "category": "client"
+  },
+  {
+    "id": "test-4",
+    "name": "Nilesh",
+    "role": "Drawing Student",
+    "avatar": "/images/avatars/nilesh.png",
+    "text": "Learning from Parth Sir completely changed the way I observe and draw. His teaching style is simple, patient, and easy to understand. My sketching and shading have improved significantly through his mentorship.",
+    "category": "student"
+  },
+  {
+    "id": "test-5",
+    "name": "Haresh",
+    "role": "Private Collector",
+    "avatar": "/images/testimonials/haresh.webp",
+    "text": "Parth's dedication and patience are reflected in every stroke of his artwork. The final portrait became one of the most treasured pieces in our home. Highly recommended.",
+    "category": "client"
+  },
+  {
+    "id": "test-6",
+    "name": "Jitubhai Vyas",
+    "role": "Art Enthusiast",
+    "avatar": "/images/testimonials/jitubhai-vyas.webp",
+    "text": "I have seen many artists, but Parth's attention to detail and realistic drawing style are exceptional. His professionalism and creativity made the entire experience memorable.",
+    "category": "client"
+  }
+]

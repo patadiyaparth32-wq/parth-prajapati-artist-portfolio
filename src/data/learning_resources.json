@@ -1,0 +1,29 @@
+[
+  {
+    "id": "res-1",
+    "title": "Hyperrealistic Portrait Guide",
+    "type": "E-Book (PDF)",
+    "description": "A comprehensive 50-page guide covering proportions, shading techniques, and step-by-step detailing of facial features.",
+    "price": "Free",
+    "link": "#",
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "res-2",
+    "title": "Charcoal Masterclass",
+    "type": "Video Course",
+    "description": "10+ hours of video lessons detailing willow charcoal, compressed charcoal, carbon pencils, and texture rendering.",
+    "price": "Premium",
+    "link": "#",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "res-3",
+    "title": "Free Sketching Worksheets",
+    "type": "Downloadable PDF",
+    "description": "Printable worksheets with exercises for shading, line quality, and hand-eye coordination drills.",
+    "price": "Free",
+    "link": "#",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=600"
+  }
+]

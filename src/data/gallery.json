@@ -1,0 +1,392 @@
+[
+  {
+    "id": "masterpiece-1",
+    "title": "Melody of Divine Grace",
+    "image": "/images/gallery/krishna.jpg",
+    "categories": [
+      "masterpiece",
+      "colour"
+    ],
+    "medium": "Mixed Media on Paper",
+    "size": "A3 (29.7 × 42 cm)",
+    "year": "2024",
+    "description": "Inspired by Krishna's eternal symbolism of love, compassion, and wisdom, this artwork balances rich colors with intricate detailing to create a sense of peace and devotion. The expressive eyes, ornate crown, and harmonious composition invite viewers into a moment of spiritual reflection while celebrating timeless Indian artistry.",
+    "featured": true,
+    "status": "Available"
+  },
+  {
+    "id": "masterpiece-2",
+    "title": "Divine Gaze",
+    "image": "/images/gallery/durga.jpg",
+    "categories": [
+      "masterpiece",
+      "pencil"
+    ],
+    "medium": "Charcoal on Paper",
+    "size": "A3 (29.7 × 42 cm)",
+    "year": "2025",
+    "description": "Created entirely with charcoal, this portrait explores the strength, grace, and divine presence of Goddess Durga. Every layer of shading and contrast enhances her powerful expression, demonstrating how monochrome art can convey profound emotion and spiritual depth.",
+    "featured": true,
+    "status": "Available"
+  },
+  {
+    "id": "masterpiece-3",
+    "title": "Innocence Forever",
+    "image": "/images/gallery/baby.jpg",
+    "categories": [
+      "masterpiece",
+      "pencil"
+    ],
+    "medium": "Charcoal on Paper",
+    "size": "A3 (29.7 × 42 cm)",
+    "year": "2024",
+    "description": "This hyperrealistic portrait preserves a priceless childhood memory through meticulous charcoal detailing. The delicate textures, peaceful expression, and protective embrace reflect innocence, unconditional love, and the timeless connection between family and childhood.",
+    "featured": true,
+    "status": "Sold"
+  },
+  {
+    "id": "masterpiece-4",
+    "title": "Colors of Auspicious Beginnings",
+    "image": "/images/gallery/ganesha.jpg",
+    "categories": [
+      "masterpiece",
+      "colour"
+    ],
+    "medium": "Color Pencil on Paper",
+    "size": "A3 (29.7 × 42 cm)",
+    "year": "2024",
+    "description": "This contemporary portrayal of Lord Ganesha combines vibrant colors with traditional symbolism to represent wisdom, prosperity, and new beginnings. Every carefully layered stroke expresses positivity, creativity, and spiritual harmony, resulting in a bold yet graceful composition.",
+    "featured": true,
+    "status": "Available"
+  },
+  {
+    "id": "art-1",
+    "title": "Serenity Within",
+    "image": "/images/gallery/colour/1000127119.jpg.jpeg",
+    "categories": [
+      "colour"
+    ],
+    "medium": "Color Pencil on Paper",
+    "year": "2025",
+    "description": "A serene portrayal of Buddha, capturing the essence of inner peace, mindfulness, and spiritual tranquility."
+  },
+  {
+    "id": "art-2",
+    "title": "Blessings of Ganesha",
+    "image": "/images/gallery/colour/1000127120.jpg.jpeg",
+    "categories": [
+      "colour"
+    ],
+    "medium": "Color Pencil & Soft Pastel",
+    "year": "2026",
+    "description": "A vibrant depiction of Lord Ganesha in a meditative posture, radiating blessings, wisdom, and auspicious energy."
+  },
+  {
+    "id": "art-3",
+    "title": "Silent Companion",
+    "image": "/images/gallery/colour/1000127121.jpg.jpeg",
+    "categories": [
+      "colour"
+    ],
+    "medium": "Mixed Media on Paper",
+    "year": "2024",
+    "description": "A heartwarming and detailed study capturing the innocent gaze and gentle soul of a loyal companion."
+  },
+  {
+    "id": "art-4",
+    "title": "Curious Whisker",
+    "image": "/images/gallery/colour/1000127122.jpg.jpeg",
+    "categories": [
+      "colour"
+    ],
+    "medium": "Color Pencil on Paper",
+    "year": "2025",
+    "description": "A playful and expressive illustration of a kitten, highlighting the delicate textures of fur and the spark of curiosity."
+  },
+  {
+    "id": "art-5",
+    "title": "Little Krishna",
+    "image": "/images/gallery/colour/1000127123.jpg.jpeg",
+    "categories": [
+      "colour"
+    ],
+    "medium": "Color Pencil & Soft Pastel",
+    "year": "2023",
+    "description": "An adorable and lively portrait of the young deity, capturing his mischievous charm and divine innocence."
+  },
+  {
+    "id": "art-6",
+    "title": "Eternal Devotion",
+    "image": "/images/gallery/colour/1000127125.jpg.jpeg",
+    "categories": [
+      "colour"
+    ],
+    "medium": "Mixed Media on Paper",
+    "year": "2026",
+    "description": "A powerful portrayal of Lord Hanuman, embodying strength, humility, and absolute devotion."
+  },
+  {
+    "id": "art-7",
+    "title": "Annual Art Exhibition 2024",
+    "image": "/images/gallery/exhibition/1000129475.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-8",
+    "title": "Gallery Walkthrough",
+    "image": "/images/gallery/exhibition/1000129476.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-9",
+    "title": "Visitors Appreciating Artwork",
+    "image": "/images/gallery/exhibition/1000129477.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-10",
+    "title": "Artwork Showcase",
+    "image": "/images/gallery/exhibition/1000129478.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-11",
+    "title": "Creative Exhibition Moments",
+    "image": "/images/gallery/exhibition/1000129479.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-12",
+    "title": "Live Exhibition Display",
+    "image": "/images/gallery/exhibition/1000129482.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-13",
+    "title": "Art Lovers Experience",
+    "image": "/images/gallery/exhibition/1000129483.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-14",
+    "title": "Artist Interaction",
+    "image": "/images/gallery/exhibition/1000129484.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-15",
+    "title": "Award Ceremony",
+    "image": "/images/gallery/exhibition/1000129486.jpg.jpeg",
+    "categories": [
+      "exhibition"
+    ],
+    "medium": "Exhibition Photograph",
+    "year": "2024",
+    "description": "Moments from the annual public exhibition."
+  },
+  {
+    "id": "art-16",
+    "title": "Wild Majesty",
+    "image": "/images/gallery/other/1000127109.jpg.jpeg",
+    "categories": [
+      "pencil"
+    ],
+    "medium": "Graphite & Charcoal on Paper",
+    "year": "2024",
+    "description": "A dramatic charcoal study capturing the raw power, elegance, and intense, focused gaze of a leopard in the shadows."
+  },
+  {
+    "id": "art-17",
+    "title": "Stairway to Silence",
+    "image": "/images/gallery/other/1000127111.jpg.jpeg",
+    "categories": [
+      "pencil"
+    ],
+    "medium": "Graphite & Charcoal on Paper",
+    "year": "2025",
+    "description": "An atmospheric architectural drawing depicting a stone staircase ascending into misty, serene heights."
+  },
+  {
+    "id": "art-18",
+    "title": "Royal Stripes",
+    "image": "/images/gallery/other/1000127113.jpg.jpeg",
+    "categories": [
+      "pencil"
+    ],
+    "medium": "Graphite & Charcoal on Paper",
+    "year": "2023",
+    "description": "A striking high-contrast portrait showcasing the regal beauty, fierce gaze, and intricate markings of a white tiger."
+  },
+  {
+    "id": "art-19",
+    "title": "Power in Motion",
+    "image": "/images/gallery/other/1000127115.jpg.jpeg",
+    "categories": [
+      "pencil"
+    ],
+    "medium": "Graphite & Charcoal on Paper",
+    "year": "2024",
+    "description": "A dynamic charcoal drawing capturing the magnificent energy, strength, and grace of a horse in full gallop."
+  },
+  {
+    "id": "art-20",
+    "title": "Melody of Wisdom",
+    "image": "/images/gallery/other/1000127116.jpg.jpeg",
+    "categories": [
+      "pencil"
+    ],
+    "medium": "Graphite & Charcoal on Paper",
+    "year": "2025",
+    "description": "A detailed and divine depiction of Goddess Saraswati with her Veena, representing the flow of art, music, and knowledge."
+  },
+  {
+    "id": "art-21",
+    "title": "Grace in Shadows",
+    "image": "/images/gallery/other/1000127124.jpg.jpeg",
+    "categories": [
+      "pencil"
+    ],
+    "medium": "Graphite & Charcoal on Paper",
+    "year": "2023",
+    "description": "An elegant chiaroscuro portrait exploring the soft interplay of light and shadow on classical features."
+  },
+  {
+    "id": "art-23",
+    "title": "Student Pencil Portrait",
+    "image": "/images/gallery/student/1000114492.jpg.jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Student Practice",
+    "year": "2025",
+    "description": "Student artwork created during guided practice."
+  },
+  {
+    "id": "art-24",
+    "title": "Student Wildlife Sketch",
+    "image": "/images/gallery/student/1000117422.jpg.jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Pencil Sketch",
+    "year": "2026",
+    "description": "Student artwork created during guided practice."
+  },
+  {
+    "id": "art-25",
+    "title": "Student Cartoon Sketch",
+    "image": "/images/gallery/student/1000122535.jpg.jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Colour Practice",
+    "year": "2025",
+    "description": "Student artwork created during guided practice."
+  },
+  {
+    "id": "art-26",
+    "title": "Creative Classroom Practice",
+    "image": "/images/gallery/student/1000128666.jpg.jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Workshop Artwork",
+    "year": "2026",
+    "description": "Student artwork created during guided practice."
+  },
+  {
+    "id": "art-27",
+    "title": "Young Artist Creation",
+    "image": "/images/gallery/student/1000132166.jpg.jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Student Practice",
+    "year": "2025",
+    "description": "Student artwork created during guided practice."
+  },
+  {
+    "id": "art-28",
+    "title": "Watercolour Practice",
+    "image": "/images/gallery/student/1000151133.jpg.jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Pencil Sketch",
+    "year": "2026",
+    "description": "Student artwork created during guided practice."
+  },
+  {
+    "id": "art-29",
+    "title": "Sketching Session",
+    "image": "/images/gallery/student/1000151880.jpg.jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Colour Practice",
+    "year": "2025",
+    "description": "Student artwork created during guided practice."
+  },
+  {
+    "id": "art-30",
+    "title": "Student Progress",
+    "image": "/images/gallery/student/1000157177.jpg_(1).jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Workshop Artwork",
+    "year": "2026",
+    "description": "Student artwork created during guided practice."
+  },
+  {
+    "id": "art-31",
+    "title": "Art Learning Workshop",
+    "image": "/images/gallery/student/1000157198.jpg.jpeg",
+    "categories": [
+      "student"
+    ],
+    "medium": "Student Practice",
+    "year": "2025",
+    "description": "Student artwork created during guided practice."
+  }
+]

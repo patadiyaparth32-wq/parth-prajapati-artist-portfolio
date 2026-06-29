@@ -1,0 +1,156 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: var(--background);
+  --color-background-secondary: var(--background-secondary);
+  --color-foreground: var(--foreground);
+  --color-foreground-secondary: var(--foreground-secondary);
+  --color-card: var(--card);
+  --color-card-border: var(--card-border);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-gold-50: #fcf9f2;
+  --color-gold-100: #f7eedb;
+  --color-gold-200: #eedab7;
+  --color-gold-300: #dfbe87;
+  --color-gold-400: #cca05b;
+  --color-gold-500: #c5a880;
+  --color-gold-600: #a87e43;
+  --color-gold-700: #8c6230;
+  --color-gold-800: #704921;
+  --color-gold-900: #573718;
+  --color-gold-950: #301d0a;
+  
+  --color-ebony-50: #f6f6f6;
+  --color-ebony-100: #e7e7e7;
+  --color-ebony-200: #d1d1d1;
+  --color-ebony-300: #b0b0b0;
+  --color-ebony-400: #888888;
+  --color-ebony-500: #6d6d6d;
+  --color-ebony-600: #5d5d5d;
+  --color-ebony-700: #4f4f4f;
+  --color-ebony-800: #373737;
+  --color-ebony-900: #212121;
+  --color-ebony-950: #080808;
+
+  --font-serif: var(--font-serif);
+  --font-sans: var(--font-sans);
+}
+
+:root {
+  --background: #FAF8F5;
+  --background-secondary: #F3EFE8;
+  --foreground: #1C1C1C;
+  --foreground-secondary: #5A5A5A;
+  --accent: #B08A5A;
+  --accent-foreground: #FAF8F5;
+  --border: rgba(0, 0, 0, 0.08);
+  --card: #FFFFFF;
+  --card-border: rgba(0, 0, 0, 0.08);
+  --spotlight: rgba(176, 138, 90, 0.04);
+}
+
+.dark {
+  --background: #080808;
+  --background-secondary: #0a0a0a;
+  --foreground: #f5f5f0;
+  --foreground-secondary: #a0a095;
+  --accent: #c5a880;
+  --accent-foreground: #080808;
+  --border: rgba(255, 255, 255, 0.08);
+  --card: rgba(15, 15, 15, 0.75);
+  --card-border: rgba(255, 255, 255, 0.05);
+  --spotlight: rgba(197, 168, 128, 0.08);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  overflow-x: hidden;
+  transition: background-color 0.5s ease, color 0.5s ease;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 3px;
+}
+
+/* Custom styles for luxury effects */
+.glass-card {
+  background: var(--card);
+  backdrop-filter: blur(20px) saturate(160%);
+  border: 1px solid var(--card-border);
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #c5a880 0%, #e8d8c3 50%, #9e7f59 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-gold-gradient {
+  background: linear-gradient(135deg, #c5a880 0%, #e8d8c3 50%, #9e7f59 100%);
+}
+
+.artwork-shadow {
+  box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.15);
+}
+
+.dark .artwork-shadow {
+  box-shadow: 0 30px 60px -15px rgba(0, 0, 0, 0.6);
+}
+
+/* Paper grain overlay */
+.paper-grain {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.04;
+}
+
+.dark .paper-grain {
+  opacity: 0.03;
+}
+
+/* Magnetic button helper */
+.magnetic-wrap {
+  display: inline-block;
+  position: relative;
+}
+
+/* Lenis smooth scroll styling */
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overflow: clip;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}

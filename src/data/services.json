@@ -1,0 +1,47 @@
+[
+  {
+    "id": "service-1",
+    "title": "Custom Portrait Commissions",
+    "description": "Hand-drawn hyperrealistic portraits of your loved ones, pets, or self. Created using premium archival-grade charcoal or graphite pencils on acid-free paper to ensure they last for generations.",
+    "features": [
+      "Available sizes: A4, A3, A2, A1",
+      "100% hand-drawn from photo references",
+      "Includes framing consultation",
+      "Global secure shipping"
+    ],
+    "duration": "2-4 Weeks",
+    "icon": "portrait",
+    "buttonText": "Book / Inquire"
+  },
+  {
+    "id": "service-2",
+    "title": "Devotional Artwork",
+    "description": "Custom hand-drawn devotional artworks of Hindu deities, created with graphite, charcoal, and colour pencils. Each artwork is crafted with attention to detail and devotion, making it perfect for homes, temples, gifts, and personal collections.",
+    "features": [
+      "Krishna Portraits",
+      "Ganesha Artwork",
+      "Durga & Maa Ambe",
+      "Shiva & Mahadev",
+      "Hanuman Artwork",
+      "Custom Sizes Available",
+      "100% Hand Drawn"
+    ],
+    "duration": "2–4 Weeks",
+    "icon": "devotional",
+    "buttonText": "REQUEST ARTWORK"
+  },
+  {
+    "id": "service-3",
+    "title": "1-on-1 Drawing Mentorship",
+    "description": "Personalized coaching for aspiring artists who want to master hyperrealism, shading, and drawing foundations. Includes portfolio reviews, live demos, and structured weekly exercises.",
+    "features": [
+      "Weekly 60-minute video sessions",
+      "Personalized learning roadmap",
+      "Direct WhatsApp feedback on your drawings",
+      "Access to all premium resources"
+    ],
+    "duration": "Monthly Subscription",
+    "icon": "mentorship",
+    "buttonText": "Book / Inquire"
+  }
+]
